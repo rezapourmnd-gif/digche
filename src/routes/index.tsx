@@ -408,7 +408,7 @@ function Index() {
             تمامی قیمت‌ها به تومان است · مالیات بر ارزش افزوده محاسبه شده است
           </p>
           <p className="mt-1.5 text-[10px] text-muted-foreground/70">
-            © رستوران بیرون بر دیگچه · {toFa(new Date().getFullYear())}
+            © رستوران و بیرون بر دیگچه · {toFa(new Date().getFullYear())}
           </p>
         </footer>
       </main>
