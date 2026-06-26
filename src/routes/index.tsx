@@ -95,7 +95,7 @@ const sections: Section[] = [
         desc: "غذای اصیل قزوینی، تهیه‌شده با گوشت، زعفران، زرشک و پسته و بادام و پوست پرتقال",
         price: 860000,
         img: "https://lh3.googleusercontent.com/d/1M3PSYXstiFgdBOsEB6yGjjZyiuPaIfNd",
-        tag: "پیشنهاد شف",
+        tag: "سالاد رایگان",
       },
       {
         name: "مرصع پلوی دیگچه",
