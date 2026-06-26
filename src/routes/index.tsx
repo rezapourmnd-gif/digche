@@ -88,7 +88,7 @@ const sections: Section[] = [
         name: "باقالی پلو با مرغ دیگچه",
         desc: "باقالی‌پلو سنتی با مرغ، ترکیبی از شوید، باقالی و زعفران",
         price: 590000,
-        img: "https://lh3.googleusercontent.com/d/197lTLqvhliU82b0LD17jtdRrXDwPq_hw",
+        img: "https://lh3.googleusercontent.com/d/16lzbAMzoA87pwcoBYCywnP2bhxFoZnFw",
       },
       {
         name: "قیمه نثار قزوینی دیگچه",
