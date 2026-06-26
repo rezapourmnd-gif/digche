@@ -137,7 +137,7 @@ const sections: Section[] = [
         name: "چلو جوجه دیگچه",
         desc: "چلو جوجه مخصوص با زعفران، همراه با برنج ایرانی و کره",
         price: 560000,
-        img: img("1626082927389-6cd097cdc6ec"),
+        img: "https://lh3.googleusercontent.com/d/1Clo0x0EPrX_gx2e088xP8Jcjd2a-yLqs",
       },
       {
         name: "چلو خورشت قرمه سبزی",
