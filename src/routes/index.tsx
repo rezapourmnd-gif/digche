@@ -82,7 +82,7 @@ const sections: Section[] = [
         name: "کباب تابه ای دیگچه",
         desc: "تهیه‌شده از ۲۲۰ گرم گوشت خالص، سرو با برنج ایرانی و گوجه کبابی و سس مخصوص",
         price: 730000,
-        img: img("1550304943-4f24f54ddde9"),
+        img: "https://lh3.googleusercontent.com/u/0/d/1C473dxIwq3Dd3KY189QkXqDDl7zdRlWf",
       },
       {
         name: "باقالی پلو با مرغ دیگچه",
