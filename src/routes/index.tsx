@@ -94,7 +94,7 @@ const sections: Section[] = [
         name: "قیمه نثار قزوینی دیگچه",
         desc: "غذای اصیل قزوینی، تهیه‌شده با گوشت، زعفران، زرشک و پسته و بادام و پوست پرتقال",
         price: 860000,
-        img: img: "https://lh3.googleusercontent.com/d/1M3PSYXstiFgdBOsEB6yGjjZyiuPaIfNd",
+        img: "https://lh3.googleusercontent.com/d/1M3PSYXstiFgdBOsEB6yGjjZyiuPaIfNd",
       },
       {
         name: "مرصع پلوی دیگچه",
