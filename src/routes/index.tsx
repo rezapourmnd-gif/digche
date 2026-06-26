@@ -75,7 +75,7 @@ const sections: Section[] = [
         name: "ته چین مرغ دیگچه",
         desc: "ته‌چین مرغ زعفرانی با سینه یا ران",
         price: 760000,
-        img: img("1550304943-4f24f54ddde9"),
+        img: "https://lh3.googleusercontent.com/u/0/d/1MhxkN2lJG9zZ4y924NoSNfqEynYinPNv",
         tag: "پیشنهاد شف",
       },
       {
