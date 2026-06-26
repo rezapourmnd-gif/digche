@@ -76,13 +76,14 @@ const sections: Section[] = [
         desc: "ته‌چین مرغ زعفرانی با سینه یا ران",
         price: 760000,
         img: "https://lh3.googleusercontent.com/u/0/d/1MhxkN2lJG9zZ4y924NoSNfqEynYinPNv",
-        tag: "پیشنهاد شف",
+        tag: "سالاد رایگان",
       },
       {
         name: "کباب تابه ای دیگچه",
         desc: "تهیه‌شده از ۲۲۰ گرم گوشت خالص، سرو با برنج ایرانی و گوجه کبابی و سس مخصوص",
         price: 730000,
         img: "https://lh3.googleusercontent.com/u/0/d/1C473dxIwq3Dd3KY189QkXqDDl7zdRlWf",
+        tag: "سالاد رایگان",
       },
       {
         name: "باقالی پلو با مرغ دیگچه",
@@ -102,6 +103,7 @@ const sections: Section[] = [
         desc: "برنج زعفرانی با خلال بادام، پسته، زرشک، کشمش و هویچ خلالی",
         price: 860000,
         img: img("1547592180-85f173990554"),
+        tag: "سالاد رایگان",
       },
     ],
   },
