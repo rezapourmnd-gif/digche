@@ -75,14 +75,14 @@ const sections: Section[] = [
         name: "ته چین مرغ دیگچه",
         desc: "ته‌چین مرغ زعفرانی با سینه یا ران",
         price: 760000,
-        img: https://lh3.googleusercontent.com/u/0/d/1C473dxIwq3Dd3KY189QkXqDDl7zdRlWf,
+        img: img("1550304943-4f24f54ddde9"),
         tag: "پیشنهاد شف",
       },
       {
         name: "کباب تابه ای دیگچه",
         desc: "تهیه‌شده از ۲۲۰ گرم گوشت خالص، سرو با برنج ایرانی و گوجه کبابی و سس مخصوص",
         price: 730000,
-        img: https://lh3.googleusercontent.com/u/0/d/1C473dxIwq3Dd3KY189QkXqDDl7zdRlWf,
+        img: img("1550304943-4f24f54ddde9"),
       },
       {
         name: "باقالی پلو با مرغ دیگچه",
@@ -408,7 +408,7 @@ function Index() {
             تمامی قیمت‌ها به تومان است · مالیات بر ارزش افزوده محاسبه شده است
           </p>
           <p className="mt-1.5 text-[10px] text-muted-foreground/70">
-            © رستوران و بیرون بر دیگچه · {toFa(new Date().getFullYear())}
+            © رستوران بیرون بر دیگچه · {toFa(new Date().getFullYear())}
           </p>
         </footer>
       </main>
